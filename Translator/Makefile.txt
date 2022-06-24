@@ -1,2 +1,0 @@
-matlang2c: main.c
-	gcc -o matlang2c main.c
